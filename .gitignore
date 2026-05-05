@@ -11,3 +11,9 @@ node_modules/
 .openclaw/credentials/
 .openclaw/identity/
 .openclaw/devices/
+.openclaw/plugin-runtime-deps/
+.openclaw/.openclaw-npm-cache/
+.openclaw/workspace/
+.openclaw/credentials/
+.openclaw/identity/
+.openclaw/devices/

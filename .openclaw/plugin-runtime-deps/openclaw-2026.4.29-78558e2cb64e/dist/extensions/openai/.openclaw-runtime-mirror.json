@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "pluginId": "openai",
+  "sourceRoot": "/home/dai/.npm-global/lib/node_modules/openclaw/dist/extensions/openai",
+  "sourceFingerprint": "6a5d5c6957c90cda1ade777f28576c597f24b5b241b19969925e261b3118bff6"
+}

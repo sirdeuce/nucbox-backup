@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "pluginId": "vllm",
+  "sourceRoot": "/home/dai/.npm-global/lib/node_modules/openclaw/dist/extensions/vllm",
+  "sourceFingerprint": "922c3816637ebca51860ac297bf3f86c8c3aea61a206ad5086413587f2d183e6"
+}

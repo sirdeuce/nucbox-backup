@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "pluginId": "anthropic-vertex",
+  "sourceRoot": "/home/dai/.npm-global/lib/node_modules/openclaw/dist/extensions/anthropic-vertex",
+  "sourceFingerprint": "4265799baf12fd76f8f5845afdff293035318d704301ebcfcdf53a68fbf3bf4f"
+}

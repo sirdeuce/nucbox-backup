@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "jobs": {
+    "93b9902c-05da-42f4-bc9d-0020a2f61ebb": {
+      "updatedAtMs": 1777901430815,
+      "scheduleIdentity": "{\"version\":1,\"enabled\":true,\"schedule\":{\"kind\":\"cron\",\"expr\":\"30 6 * * *\"}}",
+      "state": {
+        "nextRunAtMs": 1777987800000,
+        "lastRunAtMs": 1777901400051,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 30764,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0,
+        "consecutiveSkipped": 0,
+        "lastDelivered": true
+      }
+    },
+    "66d18901-0198-49cd-a819-c0b683e4a8df": {
+      "updatedAtMs": 1777870865916,
+      "scheduleIdentity": "{\"version\":1,\"enabled\":true,\"schedule\":{\"kind\":\"cron\",\"expr\":\"0 22 * * *\"}}",
+      "state": {
+        "nextRunAtMs": 1777957200000,
+        "lastRunAtMs": 1777870800004,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 65912,
+        "lastDelivered": true,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0,
+        "consecutiveSkipped": 0
+      }
+    }
+  }
+}

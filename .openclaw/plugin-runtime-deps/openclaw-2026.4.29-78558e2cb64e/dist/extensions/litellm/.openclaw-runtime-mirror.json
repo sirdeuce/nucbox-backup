@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "pluginId": "litellm",
+  "sourceRoot": "/home/dai/.npm-global/lib/node_modules/openclaw/dist/extensions/litellm",
+  "sourceFingerprint": "6db91d2fa9c536880e91fe3b60d64d981a6d26b28b3f27c650849257c65bad0b"
+}

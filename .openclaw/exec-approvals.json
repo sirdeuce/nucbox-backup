@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "socket": {
+    "path": "/home/dai/.openclaw/exec-approvals.sock",
+    "token": "xTg5ZQI_nDoMGft4FM5ssw4GUvq83xsi"
+  },
+  "defaults": {},
+  "agents": {}
+}

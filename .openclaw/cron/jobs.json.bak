@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "jobs": [
+    {
+      "id": "93b9902c-05da-42f4-bc9d-0020a2f61ebb",
+      "name": "Daily AI Briefing",
+      "enabled": true,
+      "createdAtMs": 1776730921370,
+      "updatedAtMs": 1776745116686,
+      "schedule": {
+        "kind": "cron",
+        "expr": "30 6 * * *"
+      },
+      "sessionTarget": "isolated",
+      "wakeMode": "now",
+      "payload": {
+        "kind": "agentTurn",
+        "message": "You are my daily life assistant. Every morning, generate a concise and practical daily briefing for me as a husband, father, and coach. Keep it under 250 words. Format it exactly with these sections:\n\nGOOD MORNING  \nBIBLE  \nWEATHER  \nTODAY'S PRIORITY  \nFAMILY FOCUS  \nCOACHING FOCUS  \nSTOIC PRINCIPLE  \nPERSONAL DISCIPLINE  \nTONIGHT'S QUESTION  \n\nInstructions:\n- BIBLE: Include a short verse and a simple real-life application.\n- WEATHER: Briefly summarize today's weather and anything important (rain, heat, etc.).\n- STOIC PRINCIPLE: Include one Stoic idea (discipline, control, perspective) and how to apply it today.\n- TODAY'S PRIORITY: One clear focus for the day.\n- FAMILY FOCUS: One intentional action to take with my kids or wife.\n- COACHING FOCUS: One coaching emphasis (discipline, effort, leadership).\n- PERSONAL DISCIPLINE: One standard I must hold myself to today.\n- TONIGHT'S QUESTION: One strong reflection question.\n\nTone: grounded, focused, masculine, and practical. Avoid generic motivation. Make it feel like a real daily operating brief."
+      },
+      "delivery": {
+        "mode": "announce",
+        "channel": "telegram",
+        "to": "8072905176"
+      },
+      "state": {
+        "nextRunAtMs": 1776778200000,
+        "lastRunAtMs": 1776731299733,
+        "lastRunStatus": "ok",
+        "lastStatus": "ok",
+        "lastDurationMs": 13826,
+        "lastDelivered": true,
+        "lastDeliveryStatus": "delivered",
+        "consecutiveErrors": 0
+      }
+    }
+  ]
+}

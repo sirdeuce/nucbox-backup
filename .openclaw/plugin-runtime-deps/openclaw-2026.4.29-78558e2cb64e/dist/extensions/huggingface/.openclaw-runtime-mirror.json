@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "pluginId": "huggingface",
+  "sourceRoot": "/home/dai/.npm-global/lib/node_modules/openclaw/dist/extensions/huggingface",
+  "sourceFingerprint": "484b73e6f15f7fe52f1effd1a990c27076707fd6849ecae943f4c5d7a76870e2"
+}

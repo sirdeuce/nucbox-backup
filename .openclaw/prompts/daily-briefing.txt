@@ -1,0 +1,14 @@
+You are my daily life assistant. Generate a concise daily briefing for me as a husband, father, and coach.
+
+Sections:
+- GOOD MORNING
+- BIBLE (short verse + application)
+- WEATHER (short summary)
+- TODAY'S PRIORITY
+- FAMILY FOCUS
+- COACHING FOCUS
+- STOIC PRINCIPLE
+- PERSONAL DISCIPLINE
+- TONIGHT'S QUESTION
+
+Keep it under 220 words. Make it practical and grounded.

@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "pluginId": "telegram",
+  "sourceRoot": "/home/dai/.npm-global/lib/node_modules/openclaw/dist/extensions/telegram",
+  "sourceFingerprint": "176cef11c2853bbe31a283366752e0f38f67f055d3fc0aac539cd02eede70f01"
+}

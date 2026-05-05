@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "lastGood": {
+    "ollama": "ollama:default",
+    "openai-codex": "openai-codex:dsandez2@gmail.com"
+  },
+  "usageStats": {
+    "ollama:default": {
+      "errorCount": 0,
+      "lastUsed": 1777924604706,
+      "lastFailureAt": 1777051607965
+    },
+    "openai-codex:dsandez2@gmail.com": {
+      "errorCount": 0,
+      "lastUsed": 1777882793019
+    }
+  }
+}

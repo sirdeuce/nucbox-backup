@@ -1,0 +1,7 @@
+.openclaw/workspace/
+.openclaw/credentials/
+.openclaw/identity/
+.openclaw/devices/
+*.log
+.env
+node_modules/

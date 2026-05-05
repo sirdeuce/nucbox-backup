@@ -5,3 +5,9 @@
 *.log
 .env
 node_modules/
+.openclaw/plugin-runtime-deps/
+.openclaw/.openclaw-npm-cache/
+.openclaw/workspace/
+.openclaw/credentials/
+.openclaw/identity/
+.openclaw/devices/

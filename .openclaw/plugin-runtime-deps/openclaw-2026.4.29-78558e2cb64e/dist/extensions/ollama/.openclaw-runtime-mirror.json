@@ -1,6 +1,0 @@
-{
-  "version": 1,
-  "pluginId": "ollama",
-  "sourceRoot": "/home/dai/.npm-global/lib/node_modules/openclaw/dist/extensions/ollama",
-  "sourceFingerprint": "6918e0884b4983ebbf92a09b9c0cd28930a408c65623fe175d7987702661f158"
-}

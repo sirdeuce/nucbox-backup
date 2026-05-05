@@ -1,6 +1,0 @@
-{
-  "version": 1,
-  "pluginId": "nvidia",
-  "sourceRoot": "/home/dai/.npm-global/lib/node_modules/openclaw/dist/extensions/nvidia",
-  "sourceFingerprint": "72d9b585e825f32a97944f188482af93f25edcd6d890ffa9c0c5f9f94d199b06"
-}

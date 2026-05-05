@@ -1,6 +1,0 @@
-{
-  "version": 1,
-  "pluginId": "amazon-bedrock",
-  "sourceRoot": "/home/dai/.npm-global/lib/node_modules/openclaw/dist/extensions/amazon-bedrock",
-  "sourceFingerprint": "dd670e7e5c9cedcab5da72fcc552fd22c50013138e75ae6876d98e5a3c0bb4a1"
-}

@@ -1,6 +1,0 @@
-{
-  "version": 1,
-  "pluginId": "amazon-bedrock-mantle",
-  "sourceRoot": "/home/dai/.npm-global/lib/node_modules/openclaw/dist/extensions/amazon-bedrock-mantle",
-  "sourceFingerprint": "b39535e92d5a42f9f31a0ea7d706e4d19f6771e1bad0c1739e174449c7162fdc"
-}
